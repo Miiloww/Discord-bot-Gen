@@ -1,0 +1,25 @@
+{
+  "statusText": "test",
+  "requiredRoleId": "1435412712086568981",
+  "vipRoleId": "1398783254747676692",
+  "adminRoleId": "",
+  "verificationRoleId": "1377300772831629374",
+  "genChannelId": "",
+  "ticketChannelId": "",
+  "logChannelId": "1435412773331927151",
+  "restockChannelId": "1435412760879169616",
+  "restockPingRoleId": "1435412712086568981",
+  "normalCooldown": 300000,
+  "vipCooldown": 60000,
+  "normalGenCooldown": 300000,
+  "vipGenCooldown": 300000,
+  "giveawayConfig": {
+    "enabled": false,
+    "minMessages": 100,
+    "numberOfWinners": 5,
+    "numberOfAccounts": 1,
+    "accountType": "free",
+    "serviceIds": [],
+    "guildId": "1387817559495282921"
+  }
+}

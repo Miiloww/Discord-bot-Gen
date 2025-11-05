@@ -1,0 +1,114 @@
+{
+  "service_1760897667760": {
+    "id": "service_1760897667760",
+    "name": "Crunchyroll",
+    "emoji": "<:crucnhyroll:1429532672866259149>",
+    "isVipOnly": false,
+    "accounts": [
+      {
+        "id": "acc_1760900665481_tn1qdj",
+        "email": "ben_mahir@hotmail.com",
+        "password": "Pacifisto6189801?",
+        "isUsed": true,
+        "usedBy": "713786694733660191",
+        "usedAt": "2025-10-19T19:04:47.341Z"
+      },
+      {
+        "id": "acc_1761098894729_sciuzc",
+        "email": "test",
+        "password": "test",
+        "isUsed": true,
+        "usedBy": "713786694733660191",
+        "usedAt": "2025-10-22T02:08:19.764Z"
+      },
+      {
+        "id": "acc_1762327386508_hn2sot",
+        "email": "test",
+        "password": "test",
+        "isUsed": true,
+        "usedBy": "1376287349788639272",
+        "usedAt": "2025-11-05T07:24:47.233Z"
+      },
+      {
+        "id": "acc_1762327532987_3ror1l",
+        "email": "test",
+        "password": "test",
+        "isUsed": true,
+        "usedBy": "1376287349788639272",
+        "usedAt": "2025-11-05T08:00:37.872Z"
+      },
+      {
+        "id": "acc_1762329687717_bpzsn",
+        "email": "test",
+        "password": "test",
+        "isUsed": true,
+        "usedBy": "1376287349788639272",
+        "usedAt": "2025-11-05T08:10:31.920Z"
+      },
+      {
+        "id": "acc_1762329735909_keo8wn",
+        "email": "test2",
+        "password": "test2",
+        "isUsed": true,
+        "usedBy": "1376287349788639272",
+        "usedAt": "2025-11-05T08:35:15.638Z"
+      },
+      {
+        "id": "acc_1762330427418_nhvdx",
+        "email": "test-",
+        "password": "test-",
+        "isUsed": true,
+        "usedBy": "1376287349788639272",
+        "usedAt": "2025-11-05T17:04:46.544Z"
+      },
+      {
+        "id": "acc_1762331225119_l41zv",
+        "email": "testp",
+        "password": "testp",
+        "isUsed": true,
+        "usedBy": "1376287349788639272",
+        "usedAt": "2025-11-05T17:44:57.915Z"
+      },
+      {
+        "id": "acc_1762331352724_jgm53p",
+        "email": "meow",
+        "password": "meow",
+        "isUsed": false
+      },
+      {
+        "id": "acc_1762331554562_udvwns",
+        "email": "pd",
+        "password": "pd",
+        "isUsed": false
+      }
+    ]
+  },
+  "service_1760897697639": {
+    "id": "service_1760897697639",
+    "name": "Steam",
+    "emoji": "<:steam:1429532693179142327>",
+    "isVipOnly": false,
+    "accounts": [
+      {
+        "id": "acc_1762330348896_g6tl4f",
+        "email": "test+",
+        "password": "test+",
+        "isUsed": false
+      }
+    ]
+  },
+  "service_1760897723790": {
+    "id": "service_1760897723790",
+    "name": "ADN",
+    "emoji": "<:adn:1428732841528791212>",
+    "isVipOnly": false,
+    "accounts": []
+  },
+  "service_1760897761151": {
+    "id": "service_1760897761151",
+    "name": "Minecraft",
+    "emoji": "<:minecraft:1429397139368317000>",
+    "isVipOnly": true,
+    "accounts": []
+  }
+}
