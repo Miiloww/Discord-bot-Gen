@@ -132,11 +132,4 @@ Pour toute question ou problème, contactez le développeur.
 - Enregistrement de toutes les générations de comptes
 - Affichage de l'utilisateur, service et heure
 
-## Commandes
-
-- `/panel-custom` - Affiche le panel de configuration admin (réservé aux admins)
-- `/setup-status` - Configure le texte de statut requis et le rôle à attribuer
-- `/panel-g3n` - Affiche le panel de génération de comptes
-- `/panel-ticket` - Affiche le panel de création de tickets
-
 Bot créé par **Miiloww**
