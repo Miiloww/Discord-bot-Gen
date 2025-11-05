@@ -99,7 +99,7 @@ Le bot stocke ses données dans le dossier `data/` :
 
 ## Support
 
-Discord : Miiloww
+Discord : miiloww_.
 Pour toute question ou problème, contactez le développeur.
 
 ## Fonctionnalités
