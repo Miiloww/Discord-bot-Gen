@@ -8,18 +8,12 @@
 
 ## Installation
 
-1. **Décompresser l'archive**
-   ```bash
-   tar -xzf discord-bot.tar.gz
-   cd discord-bot
-   ```
-
-2. **Installer les dépendances**
+1. **Installer les dépendances**
    ```bash
    npm install
    ```
 
-3. **Configurer les variables d'environnement**
+2. **Configurer les variables d'environnement**
    
    Copier le fichier `.env.example` vers `.env` :
    ```bash
