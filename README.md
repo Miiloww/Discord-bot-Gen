@@ -32,7 +32,8 @@
    ```
 
 4. **Lancer le bot**
-   ```bash tsx src/index.ts
+   ```bash
+   tsx src/index.ts
 ```
 
 ## Configuration Discord
