@@ -15,11 +15,6 @@
 
 2. **Configurer les variables d'environnement**
    
-   Copier le fichier `.env.example` vers `.env` :
-   ```bash
-   cp .env.example .env
-   ```
-   
    Éditer le fichier `.env` et remplir les valeurs :
    ```env
    # Discord Bot Token (depuis le Developer Portal)
@@ -38,8 +33,8 @@
 
 4. **Lancer le bot**
    ```bash
-   npm run dev
-   ```
+tsx src/index.ts
+```
 
 ## Configuration Discord
 
