@@ -90,10 +90,8 @@ Discord : miiloww_.
 Pour toute question ou problème, contactez le développeur.
 ```
 
-```
-```
-### Système de Statut et Rôles
-```
+
+```### Système de Statut et Rôles
 - Attribution automatique de rôle aux utilisateurs ayant un texte spécifique dans leur statut Discord
 - Vérification automatique toutes les 30 secondes
 - Retrait du rôle si le statut est modifié
