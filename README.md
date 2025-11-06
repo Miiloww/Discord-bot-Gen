@@ -33,7 +33,7 @@
 
 4. **Lancer le bot**
    ```bash
-   tsx src/index.ts
+   tsx src/index.ts, si besoin faites npm install -g tsx
 ## Configuration Discord
 ```
 ### Comment obtenir les informations nécessaires :
