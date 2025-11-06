@@ -1,3 +1,5 @@
+import 'dotenv/config';
+
 import { Client, GatewayIntentBits, Events, Partials } from 'discord.js';
 import { registerCommands } from './commands/register';
 import { handleInteraction } from './handlers/interactionHandler';
@@ -5,7 +7,6 @@ import { checkPresences } from './handlers/presenceHandler';
 import { botState } from './state';
 import { scheduleWeeklyGiveaway } from './utils/giveawayHandler';
 import express from 'express';
-import 'dotenv/config';
 
 const app = express();
 const PORT = parseInt(process.env.PORT || '5000', 10);
