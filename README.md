@@ -89,7 +89,7 @@ Le bot stocke ses données dans le dossier `data/` :
 Discord : miiloww_.
 Pour toute question ou problème, contactez le développeur.
 ```
-## Fonctionnalités
+
 ```
 ```
 ### Système de Statut et Rôles
