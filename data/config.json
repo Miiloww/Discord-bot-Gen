@@ -1,14 +1,14 @@
 {
-  "statusText": "test",
-  "requiredRoleId": "1435412712086568981",
-  "vipRoleId": "1398783254747676692",
+  "statusText": "",
+  "requiredRoleId": "",
+  "vipRoleId": "",
   "adminRoleId": "",
-  "verificationRoleId": "1377300772831629374",
+  "verificationRoleId": "",
   "genChannelId": "",
   "ticketChannelId": "",
-  "logChannelId": "1435412773331927151",
-  "restockChannelId": "1435412760879169616",
-  "restockPingRoleId": "1435412712086568981",
+  "logChannelId": "",
+  "restockChannelId": "",
+  "restockPingRoleId": "",
   "normalCooldown": 300000,
   "vipCooldown": 60000,
   "normalGenCooldown": 300000,
@@ -20,6 +20,6 @@
     "numberOfAccounts": 1,
     "accountType": "free",
     "serviceIds": [],
-    "guildId": "1387817559495282921"
+    "guildId": ""
   }
 }
